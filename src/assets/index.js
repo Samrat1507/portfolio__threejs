@@ -29,7 +29,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import forage from "./company/forage.png"
+import codeclause from "./company/codeclause.png"
+import unicompiler from "./company/unicompiler.png"
 export {
   logo,
   backend,
@@ -59,4 +61,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  forage,
+  codeclause,
+  unicompiler,
 };
