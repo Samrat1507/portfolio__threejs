@@ -25,6 +25,10 @@ import {
     threejs,
     codeclause,
     unicompiler,
+    androidstudio,
+    java,
+    kotlin,
+    next,
   } from "../assets";
   
   export const navLinks = [
@@ -83,8 +87,8 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Android Studio",
+      icon: androidstudio,
     },
     {
       name: "Tailwind CSS",
@@ -103,16 +107,16 @@ import {
       icon: threejs,
     },
     {
-      name: "git",
-      icon: git,
+      name: "NextJS",
+      icon: next,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "Kotlin",
+      icon: kotlin,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "JAVA",
+      icon: java,
     },
   ];
   

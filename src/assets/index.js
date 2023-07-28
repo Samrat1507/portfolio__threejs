@@ -20,6 +20,10 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import androidstudio from "./tech/androidstudio.png";
+import java from "./tech/java.png";
+import kotlin from "./tech/kotlin.png";
+import next from "./tech/next.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -32,6 +36,7 @@ import tripguide from "./tripguide.png";
 import forage from "./company/forage.png"
 import codeclause from "./company/codeclause.png"
 import unicompiler from "./company/unicompiler.png"
+
 export {
   logo,
   backend,
@@ -64,4 +69,8 @@ export {
   forage,
   codeclause,
   unicompiler,
+  androidstudio,
+  java,
+  kotlin,
+  next,
 };
