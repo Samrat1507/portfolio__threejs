@@ -193,9 +193,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "ArtLab",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Introducing ArtLab: The ultimate online haven for artists! Our platform is designed exclusively for the artistic community, offering a space to showcase, connect, and inspire. Share your artwork, engage with fellow artists, and immerse yourself in a supportive creative environment. Welcome to ArtLab, where artists thrive!",
       tags: [
         {
           name: "react",
@@ -211,7 +211,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Samrat1507/ArtLab",
     },
     {
       name: "Job IT",
