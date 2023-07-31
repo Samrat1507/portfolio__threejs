@@ -214,46 +214,46 @@ import {
       source_code_link: "https://github.com/Samrat1507/ArtLab",
     },
     {
-      name: "Job IT",
+      name: "Trade Hive",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Trade Hive is a cutting-edge stocks website revolutionizing the way you trade. With a global chat feature, you can connect with traders from around the world, fostering a vibrant community. Our expert chat provides personalized guidance from seasoned professionals to enhance your trading strategies. Stay ahead of the curve with our AI-powered trend prediction model, offering real-time insights into stock trends and forecasts. Trade Hive empowers you to buy and sell stocks with confidence, empowering you to make informed decisions in the fast-paced world of finance.",
       tags: [
         {
-          name: "react",
+          name: "Next",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Mongo",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Tailwind",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Samrat1507/Trade-Hive",
     },
     {
-      name: "Trip Guide",
+      name: "Food Runner",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Final Project for Android Development training (Internshala)",
       tags: [
         {
-          name: "nextjs",
+          name: "Firebase",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Android Studio",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Kotlin",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Samrat1507/Food-Runner",
     },
   ];
   
