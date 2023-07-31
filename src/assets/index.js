@@ -5,6 +5,7 @@ import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
+import live from "./live.png";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
@@ -87,4 +88,5 @@ export {
   rentopia,
   sushiorder,
   tradehivepic,
+  live,
 };

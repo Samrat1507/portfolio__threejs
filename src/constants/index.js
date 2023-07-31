@@ -206,6 +206,7 @@ import {
       ],
       image: artlabpic,
       source_code_link: "https://github.com/Samrat1507/ArtLab",
+      live_link:"https://artlab-codemultiplexers.netlify.app/",
     },
     {
       name: "Trade Hive",
@@ -227,6 +228,7 @@ import {
       ],
       image: tradehivepic,
       source_code_link: "https://github.com/Samrat1507/Trade-Hive",
+      live_link:"https://trade-hive.netlify.app/",
     },
     {
       name: "Food Runner",
@@ -248,6 +250,7 @@ import {
       ],
       image: foodrunnerpic,
       source_code_link: "https://github.com/Samrat1507/Food-Runner",
+      live_link:"https://trade-hive.netlify.app/",
     },
     {
       name:"Image Generator",
@@ -268,7 +271,8 @@ import {
         },
       ],
       image: imggen,
-      source_code_link: "https://github.com/Samrat1507/image-generator-dall-e"
+      source_code_link: "https://github.com/Samrat1507/image-generator-dall-e",
+      live_link:"https://image-ai-dall-e.netlify.app/",
     },
     {
       name:"Metacat",
@@ -289,7 +293,8 @@ import {
         },
       ],
       image: metacat,
-      source_code_link: "https://github.com/Samrat1507/_Metaverse_nextjs"
+      source_code_link: "https://github.com/Samrat1507/_Metaverse_nextjs",
+      live_link:"https://metacat.netlify.app/",
     },
     {
       name:"SushiLand",
@@ -310,7 +315,8 @@ import {
         },
       ],
       image: sushiorder,
-      source_code_link: "https://github.com/Samrat1507/sushi_order_landing_page"
+      source_code_link: "https://github.com/Samrat1507/sushi_order_landing_page",
+      live_link:"https://sushi-order.netlify.app/",
     },
     {
       name:"Rentopia",
@@ -331,7 +337,8 @@ import {
         },
       ],
       image: rentopia,
-      source_code_link: "https://github.com/Samrat1507/car_showcase_Landing"
+      source_code_link: "https://github.com/Samrat1507/car_showcase_Landing",
+      live_link:"https://rentopia.netlify.app/",
     },
   ];
   
