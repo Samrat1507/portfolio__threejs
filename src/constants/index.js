@@ -29,6 +29,13 @@ import {
     java,
     kotlin,
     next,
+    artlabpic,
+    foodrunnerpic,
+    imggen,
+    metacat,
+    rentopia,
+    sushiorder,
+    tradehivepic,
   } from "../assets";
   
   export const navLinks = [
@@ -149,19 +156,6 @@ import {
         "Skills: Kotlin · Firebase ml · XML · Android Studio",
       ],
     },
-    {
-      title: "Web Developer Intern",
-      company_name: "UNIcompiler",
-      icon: unicompiler,
-      iconBg: "#383E56",
-      date: "July 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
   ];
   
   const testimonials = [
@@ -210,7 +204,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: artlabpic,
       source_code_link: "https://github.com/Samrat1507/ArtLab",
     },
     {
@@ -231,7 +225,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: tradehivepic,
       source_code_link: "https://github.com/Samrat1507/Trade-Hive",
     },
     {
@@ -252,8 +246,92 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: foodrunnerpic,
       source_code_link: "https://github.com/Samrat1507/Food-Runner",
+    },
+    {
+      name:"Image Generator",
+      description:
+        "Generate Images using OpenAI by giving prompts",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "OpenAI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Cloudinary",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imggen,
+      source_code_link: "https://github.com/Samrat1507/image-generator-dall-e"
+    },
+    {
+      name:"Metacat",
+      description:
+        "Metaverse Website",
+      tags: [
+        {
+          name: "Next",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: metacat,
+      source_code_link: "https://github.com/Samrat1507/_Metaverse_nextjs"
+    },
+    {
+      name:"SushiLand",
+      description:
+        "Sushi Ordering landing Page",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: sushiorder,
+      source_code_link: "https://github.com/Samrat1507/sushi_order_landing_page"
+    },
+    {
+      name:"Rentopia",
+      description:
+        "Car Rental Web App Landing Page",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: rentopia,
+      source_code_link: "https://github.com/Samrat1507/car_showcase_Landing"
     },
   ];
   

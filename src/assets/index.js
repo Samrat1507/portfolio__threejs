@@ -31,6 +31,13 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
+import artlabpic from "./artlabpic.png";
+import foodrunnerpic from "./foodrunnerpic.png";
+import imggen from "./imggen.png";
+import metacat from "./metacat.png";
+import rentopia from "./rentopia.png";
+import sushiorder from "./sushiorder.png";
+import tradehivepic from "./tradehivepic.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import forage from "./company/forage.png"
@@ -73,4 +80,11 @@ export {
   java,
   kotlin,
   next,
+  artlabpic,
+  foodrunnerpic,
+  imggen,
+  metacat,
+  rentopia,
+  sushiorder,
+  tradehivepic,
 };
